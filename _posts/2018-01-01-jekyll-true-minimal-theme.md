@@ -26,7 +26,7 @@ Source code are highlighted:
 #!/usr/bin/perl
 
 sub print_hello {
-    print "Hello, Jekyll!\n";
+    print "Hello, Sarah!\n";
 }
 
 print_hello;
